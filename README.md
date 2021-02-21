@@ -1,4 +1,4 @@
-### Hi there, I'm Binh -🌱
+### Hi there, I'm Binh 🌱
 
 ## 👽 I'm a Developer!!⚡ 👋
 - 🔭 I love tech
