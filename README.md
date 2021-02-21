@@ -1,6 +1,6 @@
-### Hi there, I'm Binh -🌱 dev ⚡ 👋👽
+### Hi there, I'm Binh -🌱
 
-## I'm a Developer!!
+## 👽 I'm a Developer!!⚡ 👋
 - 🔭 I love tech
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
