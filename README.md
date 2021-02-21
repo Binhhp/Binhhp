@@ -1,7 +1,7 @@
 ### Hi there, I'm Binh -🌱 dev ⚡ 👋👽
 
 ## I'm a Developer!!
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I love tech
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Looking for job and contribute more to Open Source projects
