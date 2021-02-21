@@ -1,5 +1,5 @@
 ### Hi there, I'm Binh 🌱
-## 👽 I'm a big city boy and developer!!⚡ 👋
+## 👽 I'm a big city boi and developer!!⚡ 👋
 - 🔭 I love tech
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
