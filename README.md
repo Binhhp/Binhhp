@@ -6,6 +6,11 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Looking for job and contribute more to Open Source projects
 - ⚡ Fun fact: I love to football and slobbering
+### Connect with me:
+<a href="https://www.linkedin.com/in/vu-binh-7a28a817b/"><img alt="Linkedin" align="left" width="26px" src="https://github.com/Binhhp/binhhp/blob/main/linkedin.png"/></a>
+<a href="https://www.facebook.com/vu.binh.5661/"><img alt="Facebook" align="left" width="26px" src="https://github.com/Binhhp/binhhp/blob/main/facebook.png"/></a>
+<a href="https://twitter.com/BnhGold3"><img alt="Tweeter" align="left" width="26px" src="https://github.com/Binhhp/binhhp/blob/main/tweeter.png"/></a>
+
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/Binhhp/binhhp/blob/main/visual-studio-code.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/Binhhp/binhhp/blob/main/react.png" />
