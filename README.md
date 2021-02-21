@@ -1,7 +1,5 @@
-### Hi there, I'm Binh 🌱
-
 <img alt="alien" src="https://user-images.githubusercontent.com/55707606/108613728-0fa5c200-7427-11eb-888d-8baf858ea4a3.gif"/>
-<br/><br/><br/>
+### Hi there, I'm Binh 🌱
 ## 👽 I'm a Developer!!⚡ 👋
 - 🔭 I love tech
 - 🌱 I’m currently learning everything 🤣
