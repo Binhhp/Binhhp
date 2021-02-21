@@ -9,7 +9,7 @@
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/Binhhp/binhhp/blob/main/visual-studio-code.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/Binhhp/binhhp/blob/main/react.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/Binhhp/binhhp/blob/main/c#.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/Binhhp/binhhp/blob/main/c%23.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/Binhhp/binhhp/blob/main/asp-net.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/Binhhp/binhhp/blob/main/js1.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/Binhhp/binhhp/blob/main/aws.png" />
