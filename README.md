@@ -2,7 +2,7 @@
 ## 👽 I'm a bigcityboi and developer!!⚡ 👋
 - 🔭 I love tech
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking for collaborate with other content creators
 - 🥅 2021 Goals: Looking for job and contribute more to Open Source projects
 - ⚡ Fun fact: I love to football, play game and slobbering
 ### Connect with me:
