@@ -9,11 +9,11 @@
 
 
 ### 👨🏻‍💻 I'm a developer!!👋
-🔭&nbsp;I love tech<br/>
-🎓&nbsp;I’m currently learning everything 🤣<br/>
-👯&nbsp;I’m looking for collaborate with other content creators<br/>
-🥅&nbsp;2021 Goals: Looking for job and contribute more to Open Source projects<br/>
-⚡&nbsp;Fun fact: I love to football, play game and slobbering<br/>
+🔭&nbsp;&nbsp;I love tech<br/>
+🎓&nbsp;&nbsp;I’m currently learning everything 🤣<br/>
+👯&nbsp;&nbsp;I’m looking for collaborate with other content creators<br/>
+🥅&nbsp;&nbsp;2021 Goals: Looking for job and contribute more to Open Source projects<br/>
+⚡&nbsp;&nbsp;Fun fact: I love to football, play game and slobbering<br/>
 ### 🤝🏻 Connect with me:
 <a title="Linkedin" target="_blank" href="https://www.linkedin.com/in/vu-binh-7a28a817b/"><img alt="Linkedin" align="left" width="26px" src="./assets/linkedin.png"/></a>
 <a title="Facebook" target="_blank" href="https://www.facebook.com/vu.binh.5661/"><img alt="Facebook" align="left" width="26px" src="./assets/facebook.png"/></a>
