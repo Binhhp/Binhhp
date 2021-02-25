@@ -1,11 +1,11 @@
 <div><img alt="Night Coding" src="./assets/wave.gif" width='40' align="left"/><h2>Hey there! I'm Binh</h2></div>
 
 ### &nbsp;👨🏻‍💻 I'm a bigcityboi and developer!!⚡ 👋
-🔭 &nbsp;I love tech
-🎓 &nbsp;I’m currently learning everything 🤣
-👯 &nbsp;I’m looking for collaborate with other content creators
-🥅 &nbsp;2021 Goals: Looking for job and contribute more to Open Source projects
-⚡ &nbsp;Fun fact: I love to football, play game and slobbering
+🔭 &nbsp;I love tech\
+🎓 &nbsp;I’m currently learning everything 🤣\
+👯 &nbsp;I’m looking for collaborate with other content creators\
+🥅 &nbsp;2021 Goals: Looking for job and contribute more to Open Source projects\
+⚡ &nbsp;Fun fact: I love to football, play game and slobbering\
 ### 🤝🏻 Connect with me:
 <a title="Linkedin" target="_blank" href="https://www.linkedin.com/in/vu-binh-7a28a817b/"><img alt="Linkedin" align="left" width="26px" src="./assets/linkedin.png"/></a>
 <a title="Facebook" target="_blank" href="https://www.facebook.com/vu.binh.5661/"><img alt="Facebook" align="left" width="26px" src="./assets/facebook.png"/></a>
