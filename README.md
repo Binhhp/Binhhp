@@ -1,4 +1,4 @@
-<img src="https://github.com/Binhhp/binhhp/blob/main/assets/Hand%20Wave.gif"/>### Hi there, I'm Binh 🌱
+<img src="https://github.com/Binhhp/binhhp/blob/main/assets/Hand%20Wave.gif" width="50" height="50"/><h2 style="font-weight: bold;">Hi there, I'm Binh</h2> 🌱
 ## 👨🏻‍💻 I'm a bigcityboi and developer!!⚡ 👋
 - 🔭 I love tech
 - 🌱 I’m currently learning everything 🤣
