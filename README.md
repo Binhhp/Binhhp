@@ -1,4 +1,4 @@
-<img alt="Binhhp" src="./assets/wave.gif" width='40' align="left"/><h2>Hey there! I'm Binh</h2>🌱
+
 
 <!-- ## 👋 &nbsp;Hey there! I'm Binh -->
 ## 👨🏻‍💻 I'm a bigcityboi and developer!!⚡ 👋
@@ -12,3 +12,4 @@
 <a title="Facebook" target="_blank" href="https://www.facebook.com/vu.binh.5661/"><img alt="Facebook" align="left" width="26px" src="https://github.com/Binhhp/binhhp/blob/main/assets/facebook.png"/></a>
 <a title="Tweeter" target="_blank" href="https://twitter.com/BnhGold3"><img alt="Tweeter" width="26px" src="https://github.com/Binhhp/binhhp/blob/main/assets/tweeter1.png"/></a><br/><br/>
 <img alt="alien" src="https://user-images.githubusercontent.com/55707606/108613728-0fa5c200-7427-11eb-888d-8baf858ea4a3.gif"/>
+<img alt="Binhhp" src="./assets/wave.gif" width='40' align="left"/><h2>Hey there! I'm Binh🌱</h2>
