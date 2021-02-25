@@ -1,4 +1,4 @@
-<h2>Hey there! I'm Binh<img alt="Night Coding" src="./assets/wave.gif" width='25'/></h2>
+<h2>Hey there! I'm Binh<img alt="Night Coding" src="./assets/wave.gif" width='30'/></h2>
 
 ### &nbsp;👨🏻‍💻 I'm a bigcityboi and developer!!⚡ 👋
 🔭 &nbsp;I love tech\
