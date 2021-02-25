@@ -2,7 +2,7 @@
   <h2>Hey there! I'm Binh<img alt="Night Coding" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width='25'/></h2>
   <h3>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
-    BIG CITY BOI
+    <strong>BIG CITY BOI</strong>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
   </h3>
 </div>
