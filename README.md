@@ -1,4 +1,7 @@
-<div><img alt="Binhhp" src="./assets/wave.gif" width='40' align="left"/><h2>Hey there! I'm Binh🌱</h2></div>
+![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+
+<img alt="Night Coding" src="./assets/wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+
 ## 👨🏻‍💻 I'm a bigcityboi and developer!!⚡ 👋
 🔭 I love tech
 🌱 I’m currently learning everything 🤣
