@@ -1,4 +1,4 @@
-<img alt="Binhhp" src="./assets/wave.gif" width="40" height="40" align="left"/><h2>Hi there, I'm Binh🌱</h2>
+<img alt="Binhhp" src="./assets/wake.gif" width='40' align="left"/><h2>Hey there! I'm Binh</h2>🌱
 
 <!-- ## 👋 &nbsp;Hey there! I'm Binh -->
 ## 👨🏻‍💻 I'm a bigcityboi and developer!!⚡ 👋
