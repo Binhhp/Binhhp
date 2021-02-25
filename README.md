@@ -1,4 +1,6 @@
 <img alt="Binhhp" src="./assets/wave.gif" width="40" align="left"/><h2>Hi there, I'm Binh🌱</h2>
+
+<!-- ## 👋 &nbsp;Hey there! I'm Binh -->
 ## 👨🏻‍💻 I'm a bigcityboi and developer!!⚡ 👋
 🔭 I love tech
 🌱 I’m currently learning everything 🤣
