@@ -9,7 +9,7 @@
 
 
 ### 👨🏻‍💻 I'm a developer!!👋
-🔭&nbsp;I love tech/
+🔭&nbsp;I love tech<br/>
 🎓&nbsp;I’m currently learning everything 🤣/
 👯&nbsp;I’m looking for collaborate with other content creators/
 🥅&nbsp;2021 Goals: Looking for job and contribute more to Open Source projects/
