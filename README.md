@@ -6,7 +6,7 @@
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
   </h3>
 </div>
-<h2>👨🏻‍💻 I'm a developer!!👋</h2>
+<h2>👨🏻‍💻 I'm a developer!!👋</h2><br/>
 🔭 &nbsp;I love tech<br/>
 🎓 &nbsp;I’m currently learning everything 🤣<br/>
 👯 &nbsp;I’m looking for collaborate with other content creators<br/>
