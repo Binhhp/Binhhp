@@ -12,7 +12,7 @@
 <br>
 <br>
 
-## Knowledge
+## Experiences
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="react" src="https://img.shields.io/badge/asp.net%20-%2320232a.svg?&style=for-the-badge&logo=.net&logoColor=white&color=68217A" />
 <br>
